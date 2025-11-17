@@ -1,6 +1,6 @@
 # 3-Bit UART-to-LED Controller
 
-![ATmega328P UART-to-LED Schematic](image.png)
+
 
 A lightweight embedded system that receives 3-bit binary input via UART and controls three LEDs in real time using an ATmega328P microcontroller.
 
